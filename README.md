@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Michael Kenntenich! 👋
 
-<!--
-**mkennten/mkennten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me :tada:
+* 🔭 I’m currently working on teaching customers skills to use on Microsoft Azure and GitHub
+* 🌱 I’m currently learning and don't want to stop
+* 👯 I’m looking to collaborate on Azure related projects
+* 💬 Ask me about Microsoft Azure, Azure DevOps, GitHub Actions
 
-Here are some ideas to get you started:
+### Fun fact ⚡
+Despite initially dreaming of a career as a industrial management assistent, fate had other plans for me. Now, after over 20 years in various IT roles, I've come to realize that continously learning, applying, and teaching others about computers and technology have become my happy place, proving that life's funny twists can lead to unexpected joys.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![mkennten’s github stats](https://github-readme-stats.vercel.app/api?username=mkennten)](https://github.com/mkennten)
+
+[![My Skills](https://skillicons.dev/icons?i=azure,bash,cs,docker,git,githubactions,powershell,py,ts,visualstudio,vscode)](https://skillicons.dev)
